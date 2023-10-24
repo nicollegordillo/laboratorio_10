@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523060526681",
+    "project_id": "fir-lab10-18534",
+    "storage_bucket": "fir-lab10-18534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523060526681:android:21767c8256e6c2ea63fb48",
+        "android_client_info": {
+          "package_name": "com.example.labboratorio10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523060526681-aoaifttjq44k4pcpbtv6j11ruigbeibd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs6Tqi-zP5F2cU0pu1fAs-kBP1YiPbMNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523060526681-aoaifttjq44k4pcpbtv6j11ruigbeibd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
