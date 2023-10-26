@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "523060526681-cdo41iitt2c7idm16e00c4h7d6kk4dpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labboratorio10",
+            "certificate_hash": "284ed6af804284a1fd87c1df61b7a98d17cb4ab9"
+          }
+        },
+        {
           "client_id": "523060526681-aoaifttjq44k4pcpbtv6j11ruigbeibd.apps.googleusercontent.com",
           "client_type": 3
         }
